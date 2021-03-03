@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="dorm:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87468a8d-e52b-46d3-b277-654111980c37" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XSLT Stylesheet" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\software\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="C:/software/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="C:\software\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n9bpwbmBJaOWlvMs1xsJSlEDns" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.16125" />
+    <property name="project.structure.side.proportion" value="0.40388548" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\BaiduNetdiskDownload\mybatis-spring-springmvc-oracle-maven高级-权限管理\03-SpringMVC\02-第二天\代码\dorm\src\main\webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tian.test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\BaiduNetdiskDownload\mybatis-spring-springmvc-oracle-maven高级-权限管理\03-SpringMVC\02-第二天\代码\dorm\src\main\webapp" />
+      <recent name="D:\BaiduNetdiskDownload\mybatis-spring-springmvc-oracle-maven高级-权限管理\03-SpringMVC\02-第二天\代码\dorm\src\main\webapp\js" />
+      <recent name="D:\BaiduNetdiskDownload\mybatis-spring-springmvc-oracle-maven高级-权限管理\03-SpringMVC\02-第二天\代码\dorm\src\main\webapp\pages" />
+      <recent name="D:\BaiduNetdiskDownload\mybatis-spring-springmvc-oracle-maven高级-权限管理\03-SpringMVC\02-第二天\代码\dorm\src\main\resources" />
+      <recent name="D:\BaiduNetdiskDownload\mybatis-spring-springmvc-oracle-maven高级-权限管理\03-SpringMVC\02-第二天\代码\dorm\src\main\webapp\WEB-INF\pages" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.431">
+    <configuration name="IntoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tian.utils.IntoString" />
+      <module name="dorm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tian.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JacksonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tian.test.JacksonTest" />
+      <module name="dorm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tian.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DormMybatisTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dorm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tian.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tian.test" />
+      <option name="MAIN_CLASS_NAME" value="com.tian.test.DormMybatisTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DormMybatisTest.saveUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dorm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tian.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tian.test" />
+      <option name="MAIN_CLASS_NAME" value="com.tian.test.DormMybatisTest" />
+      <option name="METHOD_NAME" value="saveUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvaTest.saveUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dorm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tian.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tian.test" />
+      <option name="MAIN_CLASS_NAME" value="com.tian.test.EvaTest" />
+      <option name="METHOD_NAME" value="saveUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.431" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.431" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <deployment>
+        <artifact name="dorm:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_dorm" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9611" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="dorm:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JacksonTest" />
+      <item itemvalue="Application.IntoString" />
+      <item itemvalue="JUnit.DormMybatisTest" />
+      <item itemvalue="JUnit.DormMybatisTest.saveUser" />
+      <item itemvalue="JUnit.EvaTest.saveUser" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.431" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IntoString" />
+        <item itemvalue="JUnit.DormMybatisTest.saveUser" />
+        <item itemvalue="JUnit.DormMybatisTest" />
+        <item itemvalue="JUnit.EvaTest.saveUser" />
+        <item itemvalue="Application.JacksonTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_INTERFACES,SHOW_LAMBDA,SHOW_ANONYMOUS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87468a8d-e52b-46d3-b277-654111980c37" name="Default Changelist" comment="" />
+      <created>1610805439095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610805439095</updated>
+      <workItem from="1610805442913" duration="1434000" />
+      <workItem from="1610879324709" duration="4775000" />
+      <workItem from="1610973113323" duration="2263000" />
+      <workItem from="1611044094160" duration="6800000" />
+      <workItem from="1611126352128" duration="12417000" />
+      <workItem from="1611217848750" duration="9405000" />
+      <workItem from="1611301959201" duration="2831000" />
+      <workItem from="1611321416017" duration="4827000" />
+      <workItem from="1611407079760" duration="3342000" />
+      <workItem from="1611476392840" duration="6494000" />
+      <workItem from="1611563530915" duration="1739000" />
+      <workItem from="1611581605481" duration="670000" />
+      <workItem from="1611647330050" duration="596000" />
+      <workItem from="1611732509996" duration="3796000" />
+      <workItem from="1611994094362" duration="6195000" />
+      <workItem from="1612100233390" duration="2082000" />
+      <workItem from="1612184227895" duration="2209000" />
+      <workItem from="1612251943219" duration="6846000" />
+      <workItem from="1612271142923" duration="634000" />
+      <workItem from="1612277037863" duration="511000" />
+      <workItem from="1612340025298" duration="5231000" />
+      <workItem from="1612434436017" duration="5258000" />
+      <workItem from="1612518335466" duration="8191000" />
+      <workItem from="1612614288472" duration="3820000" />
+      <workItem from="1612683559294" duration="7385000" />
+      <workItem from="1612769608267" duration="3417000" />
+      <workItem from="1612773748838" duration="8954000" />
+      <workItem from="1612860057787" duration="4786000" />
+      <workItem from="1612934352727" duration="5190000" />
+      <workItem from="1612962355600" duration="3532000" />
+      <workItem from="1613011526592" duration="11924000" />
+      <workItem from="1613053236217" duration="2145000" />
+      <workItem from="1613101351359" duration="7502000" />
+      <workItem from="1613126583032" duration="7115000" />
+      <workItem from="1613218960261" duration="7051000" />
+      <workItem from="1613313942707" duration="2815000" />
+      <workItem from="1613369097868" duration="14054000" />
+      <workItem from="1613451993240" duration="9913000" />
+      <workItem from="1613539701273" duration="18723000" />
+      <workItem from="1613628058037" duration="14320000" />
+      <workItem from="1613712165789" duration="13051000" />
+      <workItem from="1613804264518" duration="9324000" />
+      <workItem from="1613817733997" duration="9403000" />
+      <workItem from="1613889911533" duration="17256000" />
+      <workItem from="1613974585517" duration="15050000" />
+      <workItem from="1614063754595" duration="13642000" />
+      <workItem from="1614145058995" duration="8238000" />
+      <workItem from="1614161032111" duration="3548000" />
+      <workItem from="1614166388607" duration="5845000" />
+      <workItem from="1614183062120" duration="2229000" />
+      <workItem from="1614238115287" duration="6518000" />
+      <workItem from="1614323673537" duration="2624000" />
+      <workItem from="1614407952993" duration="2785000" />
+      <workItem from="1614493857554" duration="1292000" />
+      <workItem from="1614578215439" duration="2435000" />
+      <workItem from="1614661547738" duration="1609000" />
+      <workItem from="1614751317206" duration="957000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tian/controller/ApartmentController.java</url>
+          <line>103</line>
+          <properties class="com.tian.controller.ApartmentController" method="deleteList">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tian/controller/EvaRecordController.java</url>
+          <line>93</line>
+          <properties class="com.tian.controller.EvaRecordController" method="update">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dorm$Tomcat_8_5_431.ic" NAME="Tomcat 8.5.431 Coverage Results" MODIFIED="1613823727548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
