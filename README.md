@@ -1,1 +1,1 @@
-writen by bladetom
+寝室管理
